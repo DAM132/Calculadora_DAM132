@@ -14,6 +14,8 @@ public class Calculadora {
     static int numero1 = 0, numero2 = 0; //Variables de entrada
 
     public static void main(String[] args) {
+        
+        System.out.println("Mensaje de bienvenida para aprobar =)");
 
         while (opcion != 0) {
             //Try catch para evitar que el programa termine si hay un error
